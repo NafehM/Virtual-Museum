@@ -856,11 +856,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 1
-  cloudProjectId: 
+  cloudProjectId: f1cebccc-82a1-4d9f-9402-cedbf05a7280
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Virtual-Museum 2024-05-08_16-14-08
+  organizationId: nmm999
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
